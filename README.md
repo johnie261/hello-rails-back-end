@@ -21,6 +21,7 @@
     - [Install](#install)
     - [Usage](#usage)
   - [👥 Authors](#-authors)
+  - [🔭 Future Features](#future-features)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -111,6 +112,12 @@ Here is the [Front-End](https://github.com/johnie261/hello-react-front-end) of t
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Add more greeting to DB]**
+
+<p align="right"><a href="#readme-top">Back to top</a></p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
